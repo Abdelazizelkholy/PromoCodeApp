@@ -1,5 +1,7 @@
 # Laravel App
-This is a Laravel application that provides [
+This is a Laravel application that provides 
+
+[
 promo code app where admins can create promo codes through an api the app consists of 2 endpoints
 
 1- first end point :
