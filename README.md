@@ -20,7 +20,7 @@ Docker Compose
 
 # Setup
 1-Clone the repository to your local machine:
-git clone https://github.com/your-username/laravel-app.git
+git clone git@github.com:Abdelazizelkholy/PromoCodeApp.git
 
 2-Change directory to the cloned repository:
 cd laravel-app
